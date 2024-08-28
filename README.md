@@ -1,2 +1,2 @@
 # odin-LandingPage
- Landing Page mockup for the Odin project course
+ Landing Page  mockup exercise for the Odin project course
